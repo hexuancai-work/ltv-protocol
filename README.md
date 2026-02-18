@@ -134,6 +134,26 @@ It is designed to evolve toward auditable, interoperable, and governance-aligned
 
 ---
 
+## Data Provenance & Signal Origination
+
+The LTV Protocol does not assume ownership, custody, or direct access to underlying transaction data.
+
+Predictive value signals transmitted through the protocol may be computed by multiple originating entities, including:
+
+- Payment providers  
+- Commerce platforms  
+- Merchants and subscription operators  
+- Credit and risk intelligence systems  
+- Third-party value analytics providers  
+
+The protocol defines interoperable interfaces for the exchange and routing of predictive value intelligence, not the computation or standardization of proprietary valuation models.
+
+In this model, value computation remains institution-specific, while value signaling becomes system-interoperable.
+
+This separation preserves provider autonomy while enabling cross-platform coordination of economic routing decisions.
+
+---
+
 ## Repository
 
 https://github.com/LTVLABS/ltv-protocol
