@@ -12,7 +12,7 @@ It frames the separation between execution infrastructure and valuation infrastr
 
 Read the full article:
 
-https://medium.com/@YOURHANDLE/the-missing-value-layer-in-agent-commerce
+https://medium.com/@caihexuan/the-missing-value-layer-in-agent-commerce-072be8a9a2fa
 
 ## Relationship to This Specification
 
