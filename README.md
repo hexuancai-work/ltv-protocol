@@ -32,9 +32,11 @@ The LTV Protocol is a canonical specification stewarded under the LTV.COM namesp
   
 ### Heterogeneous Value Signal Support
 
-The LTV Protocol supports heterogeneous value signals, including Loan-to-Value ratios from DeFi oracles and Lifetime Value estimates from commerce intelligence systems.
+The LTV Protocol supports heterogeneous value signals spanning multiple economic domains, including Loan-to-Value ratios from DeFi collateral oracles and Lifetime Value estimates from commerce intelligence systems.
 
 Rather than competing with vertical implementations, the protocol provides an interoperable interface layer through which distinct instantiations of the LTV primitive can be contextualized, normalized, and routed across agent economic environments.
+
+This compatibility model enables leverage ratios, underwriting metrics, and predictive commerce valuation signals to coexist within a unified value routing surface.
 
 ---
 
@@ -83,7 +85,7 @@ The LTV.COM Registry functions as a namespace coordination surface for the LTV P
   The `ltv.com` domain provides a unique namespace context for value signaling constructs, supporting collision-resistant identification across agent and platform environments.
 
 - **Interoperability Orientation**  
-  By maintaining a provider-neutral interface perspective, the registry framework facilitates value-language alignment across commerce, payments, and financial systems without exposing proprietary implementation logic.
+  By maintaining a provider-neutral interface perspective, the registry framework facilitates value-language alignment across commerce, payments, financial systems, and decentralized leverage infrastructures without exposing proprietary implementation logic.
 
 ---
 
@@ -153,6 +155,7 @@ The LTV Protocol functions as foundational infrastructure for value intelligence
 - Payments and credit underwriting  
 - Advertising value optimization  
 - Agent-mediated transaction systems  
+- Decentralized leverage and collateral intelligence environments  
 
 It is designed to evolve toward auditable, interoperable, and governance-aligned adoption frameworks within machine-driven economic networks.
 
@@ -168,6 +171,7 @@ Predictive value signals transmitted through the protocol may be computed by mul
 - Commerce platforms  
 - Merchants and subscription operators  
 - Credit and risk intelligence systems  
+- DeFi collateral and leverage infrastructures  
 - Third-party value analytics providers  
 
 The protocol defines interoperable interfaces for the exchange and routing of predictive value intelligence, not the computation or standardization of proprietary valuation models.
