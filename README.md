@@ -28,7 +28,13 @@ The LTV Protocol is a canonical specification stewarded under the LTV.COM namesp
 - Predictive signal ingestion frameworks  
 - Value routing orchestration  
 - Governance & transparency infrastructure  
-- Identity trust lifecycle controls  
+- Identity trust lifecycle controls
+  
+### Heterogeneous Value Signal Support
+
+The LTV Protocol supports heterogeneous value signals, including Loan-to-Value ratios from DeFi oracles and Lifetime Value estimates from commerce intelligence systems.
+
+Rather than competing with vertical implementations, the protocol provides an interoperable interface layer through which distinct instantiations of the LTV primitive can be contextualized, normalized, and routed across agent economic environments.
 
 ---
 
