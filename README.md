@@ -32,6 +32,24 @@ The LTV Protocol is a canonical specification stewarded under the LTV.COM namesp
 
 ---
 
+## Architecture Overview
+
+The LTV Protocol defines a multi-layer semantic and operational framework for value intelligence across machine-driven economic systems.
+
+### LTV Ecosystem Layered Map
+
+The protocol spans multiple infrastructure layers including settlement, credit leverage, underwriting risk systems, value intelligence engines, and agent economic routing environments.
+
+![LTV Ecosystem Layered Map](docs/architecture/LTV_Ecosystem_Layered_Map.png)
+
+### Agent Economic Decision Call Flow
+
+This diagram illustrates how autonomous agents evaluate value, risk, credit capacity, and execution sequencing when interacting with LTV-compliant infrastructure.
+
+![Agent Economic Decision Call Flow](docs/architecture/Agent_Economic_Call_Flow.png)
+
+---
+
 ## Repository Structure
 
 `/openapi` — Protocol interface & computation schemas  
